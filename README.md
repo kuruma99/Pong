@@ -1,6 +1,9 @@
 # Pong
 Pong game in python using Turtle
 
+## A Glimpse
+![Pong](images/pong.png)
+
 ## Installation
 To play this game run following commands on terminal (Ctrl + Alt + T) for Linux
 ```
